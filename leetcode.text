@@ -27,6 +27,6 @@ leetcode-128 Longest Consecutive Sequence
     https://leetcode-cn.com/problems/longest-consecutive-sequence/solution/zui-chang-lian-xu-xu-lie-by-leetcode-solution/
 leetcode-706 Design HashMap
     c++
-    拉链+数据寻址法https://leetcode-cn.com/problems/design-hashmap/solution/shu-zu-qu-qiao-la-lian-fa-da-shu-ju-kai-fang-xun-z/
+    拉链(链表法)+数据寻址法https://leetcode-cn.com/problems/design-hashmap/solution/shu-zu-qu-qiao-la-lian-fa-da-shu-ju-kai-fang-xun-z/
     链表法https://leetcode-cn.com/problems/design-hashmap/solution/706-she-ji-ha-xi-ying-she-by-l00447754/
     AVL tree :https://leetcode-cn.com/problems/design-hashmap/comments/
