@@ -34,4 +34,9 @@ leetcode-706 Design HashMap
 
 c++ STL 操作
     fill：https://www.geeksforgeeks.org/fill-in-cpp-stl/
-    
+queue 操作：
+    queue.front()
+    queue.top()
+    queue.pop()
+    queue.push()
+    http://c.biancheng.net/view/479.html
