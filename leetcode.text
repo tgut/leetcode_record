@@ -46,3 +46,18 @@ queue 操作：
     string.back() Returns a reference to the last character of the string.
     string.front() Returns a reference to the first character of the string.
     http://www.cplusplus.com/reference/string/string/back/
+    
+leetcode-416. Partition Equal Subset Sum
+leetcode-530. Minimum Absolute Difference in BST
+leetcode-24. Swap Nodes in Pairs
+leetcode-1002. Find Common Characters
+leetcode-116. Populating Next Right Pointers in Each Node
+leetcode-977. Squares of a Sorted Array
+leetcode-52. N-Queens II
+leetcode-19. Remove Nth Node From End of List
+leetcode-844 Backspace String Compare
+leetcode-143 Reorder List
+    vector排序
+    取中间节点（876）+链表逆序（206）+合并
+    https://leetcode-cn.com/problems/reorder-list/solution/143-zhong-pai-lian-biao-shu-zu-shuang-xiang-dui-li/
+    
