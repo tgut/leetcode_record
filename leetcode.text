@@ -116,3 +116,39 @@ leetcode-925 Long Pressed Name
     https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
 303. Range Sum Query - Immutable
     https://leetcode-cn.com/problems/range-sum-query-immutable/
+31. Next Permutation
+    https://leetcode-cn.com/problems/next-permutation/solution/xia-yi-ge-pai-lie-by-leetcode-solution/
+514. Freedom Trail
+    ｈttps://leetcode-cn.com/problems/freedom-trail/solution/zi-you-zhi-lu-by-leetcode-solution/
+    todo:要自己敲一遍
+35. Search Insert Position
+    左闭右闭提交题解
+    左闭右开https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q
+27. Remove Element
+    https://leetcode-cn.com/problems/remove-element/
+    移除数组元素
+15. 3Sum
+    https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484250&idx=1&sn=223e601c74ac9690cf523fba81529df1&scene=21#wechat_redirect
+    双指针解法
+922. Sort Array By Parity II
+    https://leetcode-cn.com/problems/sort-array-by-parity-ii/solution/922san-chong-po-shi-wu-hua-de-fang-fa-ren-ni-xuan-/
+328. Odd Even Linked List
+    https://leetcode-cn.com/submissions/detail/123283401/
+    链表操作
+209. Minimum Size Subarray Sum
+    https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg
+    滑动窗口
+1122. Relative Sort Array
+    https://leetcode-cn.com/problems/relative-sort-array/solution/shu-zu-de-xiang-dui-pai-xu-by-leetcode-solution/
+    总结：计数排序
+59. Spiral Matrix II
+    https://leetcode-cn.com/problems/spiral-matrix-ii/solution/59-luo-xuan-ju-zhen-ii-cdai-ma-jing-jian-si-lu-qin/
+    扩展，如果是三维矩阵如何写
+    54. Spiral Matrix
+402. Remove K Digits
+    https://leetcode-cn.com/problems/remove-k-digits/solution/c-qing-xi-yi-dong-yi-ban-fang-fa-dan-diao-zhan-fan/
+406. Queue Reconstruction by Height
+   https://leetcode-cn.com/problems/queue-reconstruction-by-height/solution/406du-shuo-shi-tan-xin-na-yao-wei-shi-yao-yong-tan/
+1030. Matrix Cells in Distance Order
+    https://leetcode-cn.com/problems/matrix-cells-in-distance-order/submissions/
+    sort　重载问题，lamda表达式
