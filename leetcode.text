@@ -152,3 +152,8 @@ leetcode-925 Long Pressed Name
 1030. Matrix Cells in Distance Order
     https://leetcode-cn.com/problems/matrix-cells-in-distance-order/submissions/
     sort　重载问题，lamda表达式
+
+84.Largest Rectangle in Histogram
+https://leetcode-cn.com/submissions/detail/134160923/  
+monostack单调栈，以及相关题目链接：
+    42,749,496,316,901,402,581
