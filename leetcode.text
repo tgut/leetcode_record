@@ -159,6 +159,9 @@ monostack单调栈，以及相关题目链接：
     42,749,496,316,901,581
 单调递减栈 402，remove k Digits
 
+347.top-k-frequent-elements
+提交https://leetcode-cn.com/submissions/detail/143369586/   question:只能使用，unordered_map遍历？，使用auto出错？
+优先级队列讲解https://en.cppreference.com/w/cpp/container/priority_queue
 
 
 programming to  optimization.
